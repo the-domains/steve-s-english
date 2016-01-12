@@ -1,0 +1,28 @@
+name: "Steve's English"
+favicon: null
+layout_spectrum: 0.6561195743270218
+typography_spectrum: 0.23994194623082876
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.4092059473041445
+  lightness: 0.2861592834815383
+  saturation: 0.8978013752494007
+  rhythmicContrast: 0.5176105420105159
+purpose: []
