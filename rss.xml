@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Steve's English]]></title>
         <description><![CDATA[Steve's English]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/steve-s-english/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 12 Jan 2016 07:05:32 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 12 Jan 2016 07:12:33 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/steve-s-english/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>My name is Steven. I am an American from the sunny State of Florida. I have been living in South Korea since October of 2007. I am a happily married man of six years to my beautiful and wonderful Korean wife. We live in the Seoul-Ilsan area. I really enjoy living here in Korea. I enjoy springtime the most because it is so beautiful. I have a passion for teaching. I enjoy photography, swimming, Wing Chun Kung Fu, and nature.</p>]]></description>
-            <link>undefined2a8036b1-42d3-4cc5-9992-0d7a278d150c/index.html</link>
+            <link>https://thegrid.ai/steve-s-english/2a8036b1-42d3-4cc5-9992-0d7a278d150c/index.html</link>
             <guid isPermaLink="false">2a8036b1-42d3-4cc5-9992-0d7a278d150c</guid>
-            <pubDate>Tue, 12 Jan 2016 07:05:15 GMT</pubDate>
+            <pubDate>Tue, 12 Jan 2016 07:12:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
